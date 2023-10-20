@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/usr/git/otus-cpp-basic-ls002/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/main.cpp.dir/example.cpp.o -c /home/usr/git/otus-cpp-basic-ls002/example.cpp",
+  "file": "/home/usr/git/otus-cpp-basic-ls002/example.cpp"
+}
+]

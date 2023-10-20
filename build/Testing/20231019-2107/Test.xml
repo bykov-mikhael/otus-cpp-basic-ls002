@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20231019-2107-Experimental"
+	Name="nb-ide"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="8.3.0"
+	OSName="Linux"
+	Hostname="nb-ide"
+	OSRelease="5.15.0-70-generic"
+	OSVersion="#astra2 SMP Mon Apr 10 13:35:08 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="69"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="975"
+	TotalPhysicalMemory="7608"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2291.63"
+	>
+	<Testing>
+		<StartDateTime>Oct 20 01:30 MSK</StartDateTime>
+		<StartTestTime>1697754600</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 20 01:30 MSK</EndDateTime>
+		<EndTestTime>1697754600</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
