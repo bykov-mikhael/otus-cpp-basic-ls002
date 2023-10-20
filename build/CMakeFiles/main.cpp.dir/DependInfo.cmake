@@ -5,7 +5,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/usr/git/otus-cpp-basic-ls002/example.cpp" "/home/usr/git/otus-cpp-basic-ls002/build/CMakeFiles/main.cpp.dir/example.cpp.o"
-  "/home/usr/git/otus-cpp-basic-ls002/main.cpp" "/home/usr/git/otus-cpp-basic-ls002/build/CMakeFiles/main.cpp.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

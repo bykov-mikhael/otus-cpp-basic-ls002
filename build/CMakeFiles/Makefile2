@@ -156,12 +156,12 @@ CMakeFiles/ContinuousMemCheck.dir/clean:
 CMakeFiles/main.cpp.dir/all:
 	$(MAKE) -f CMakeFiles/main.cpp.dir/build.make CMakeFiles/main.cpp.dir/depend
 	$(MAKE) -f CMakeFiles/main.cpp.dir/build.make CMakeFiles/main.cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/usr/git/otus-cpp-basic-ls002/build/CMakeFiles --progress-num=1,2,3 "Built target main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/usr/git/otus-cpp-basic-ls002/build/CMakeFiles --progress-num=1,2 "Built target main.cpp"
 .PHONY : CMakeFiles/main.cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/main.cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/usr/git/otus-cpp-basic-ls002/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/usr/git/otus-cpp-basic-ls002/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/main.cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/usr/git/otus-cpp-basic-ls002/build/CMakeFiles 0
 .PHONY : CMakeFiles/main.cpp.dir/rule
